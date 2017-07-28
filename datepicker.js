@@ -1,3 +1,3 @@
 <script>
-  $("#datepicker").css('background-color','	#83CBE1');
+  $("#datepicker").css('background-color','#83CBE1');
 </script>
